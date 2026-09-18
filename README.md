@@ -44,7 +44,8 @@ The objective of this project is to provide a simple Excel dashboard that helps 
 
 The dashboard provides a visual summary of the sales data and allows users to analyze different aspects of the business using Excel's interactive features.
 
-![Flipkart Sales Dashboard](dashboard.png)
+<img width="1217" height="742" alt="image" src="https://github.com/user-attachments/assets/6c7c471d-9906-4aad-ad20-96fab8326b96" />
+
 
 ## Key Insights
 
@@ -98,5 +99,7 @@ The complete Excel workbook is available in this repository:
 **Nikhil Mishra**
 
 GitHub: [nikhilmishra-crypto](https://github.com/nikhilmishra-crypto)
+
+linkedin: 
 
 Project Repository: [Flipkart Sales Dashboard](https://github.com/nikhilmishra-crypto/flipkart_Sales_dashboard)
